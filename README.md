@@ -2,13 +2,12 @@
 Automation Testing of website/Application
 Below is a **premium, advanced, GitHub-ready README.md**, fully customized for your **Selenium Automation Framework** with **20+ test cases**, including dropdowns, tables, iFrames, window handling, and full Parabank coverage.
 
-This is a **copy–paste ready Markdown README** — professional, clean, and scoring high marks.
-
 ---
 
 
 
 This repository contains a **Python + Selenium automated testing framework** for the **Parabank Demo Application**:
+
 🔗 [https://parabank.parasoft.com](https://parabank.parasoft.com)
 
 It includes **20+ end-to-end test scenarios**, advanced UI interactions, window handling, iFrames, dropdowns, tables, and complete functional test coverage of the application.
