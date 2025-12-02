@@ -1,0 +1,36 @@
+from SA_ParaBank.utils.driver_factory import get_driver
+from time import sleep
+
+driver = get_driver()
+driver.get("https://parabank.parasoft.com")
+sleep(1.5)
+
+driver.find_element("link text", "Register").click()
+sleep(1.5)
+
+driver.find_element("id", "customer.firstName").send_keys("John")
+sleep(1.5)
+driver.find_element("id", "customer.lastName").send_keys("Doe")
+sleep(1.5)
+driver.find_element("id", "customer.address.street").send_keys("Street 1")
+sleep(1.5)
+driver.find_element("id", "customer.address.city").send_keys("Delhi")
+sleep(1.5)
+driver.find_element("id", "customer.address.state").send_keys("DL")
+sleep(1.5)
+driver.find_element("id", "customer.address.zipCode").send_keys("110001")
+sleep(1.5)
+driver.find_element("id", "customer.phoneNumber").send_keys("9999999999")
+sleep(1.5)
+driver.find_element("id", "customer.ssn").send_keys("1234")
+sleep(1.5)
+driver.find_element("id", "customer.username").send_keys("john99")
+sleep(1.5)
+driver.find_element("id", "customer.password").send_keys("pass123")
+sleep(1.5)
+driver.find_element("id", "repeatedPassword").send_keys("pass123")
+sleep(1.5)
+
+driver.find_element("xpath", "//input[@value='Register']").click()
+sleep(2)
+driver.quit()
