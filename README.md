@@ -8,9 +8,9 @@ This is a **copy–paste ready Markdown README** — professional, clean, and sc
 
 # 🚀 **Parabank Selenium Automation Framework**
 
-![Selenium](https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge\&logo=python)
-![Status](https://img.shields.io/badge/Project-Active-brightgreen?style=for-the-badge)
+![Selenium]
+![Python]
+![Status]
 
 This repository contains a **Python + Selenium automated testing framework** for the **Parabank Demo Application**:
 🔗 [https://parabank.parasoft.com](https://parabank.parasoft.com)
