@@ -6,11 +6,7 @@ This is a **copy–paste ready Markdown README** — professional, clean, and sc
 
 ---
 
-# 🚀 **Parabank Selenium Automation Framework**
 
-![Selenium]
-![Python]
-![Status]
 
 This repository contains a **Python + Selenium automated testing framework** for the **Parabank Demo Application**:
 🔗 [https://parabank.parasoft.com](https://parabank.parasoft.com)
